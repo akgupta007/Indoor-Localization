@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ebdb572a1ffb8e9c9d5a09fb7a50562d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d22896dde3d17e7e87345fa7546b8cc2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\359ba1f08ef26661c7b772a4d23add9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a3fe723a80a38c527463874947bf2e9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\89ab18de44a4bb0154d22f59fcab693c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3d4cc12330a22b847e361869646f9906\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3b0f81d51209d96470df9280080490b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\03bc33f336e996931b428e47b5b514e3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ecbbf00434622850156263094c2bc5f9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e31716d7286ac0d66ba0751c11ccacbc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aebe0c51346436138c92992981eae149\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98b442f7c43c1084ca3c3cf99ed1f7e7\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:5:22-71
+application
+ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:8:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d22896dde3d17e7e87345fa7546b8cc2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d22896dde3d17e7e87345fa7546b8cc2\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.akanshugupta.trackapp.MainActivity
+ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:19:27-74
+service#com.example.akanshugupta.trackapp.MyService
+ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:23:9-26:47
+	android:enabled
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:25:13-35
+	android:exported
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml:24:13-38
+uses-sdk
+INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ebdb572a1ffb8e9c9d5a09fb7a50562d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ebdb572a1ffb8e9c9d5a09fb7a50562d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d22896dde3d17e7e87345fa7546b8cc2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\d22896dde3d17e7e87345fa7546b8cc2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\359ba1f08ef26661c7b772a4d23add9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\359ba1f08ef26661c7b772a4d23add9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a3fe723a80a38c527463874947bf2e9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a3fe723a80a38c527463874947bf2e9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\89ab18de44a4bb0154d22f59fcab693c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\89ab18de44a4bb0154d22f59fcab693c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3d4cc12330a22b847e361869646f9906\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\3d4cc12330a22b847e361869646f9906\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3b0f81d51209d96470df9280080490b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\3b0f81d51209d96470df9280080490b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\03bc33f336e996931b428e47b5b514e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\03bc33f336e996931b428e47b5b514e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ecbbf00434622850156263094c2bc5f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ecbbf00434622850156263094c2bc5f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e31716d7286ac0d66ba0751c11ccacbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e31716d7286ac0d66ba0751c11ccacbc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aebe0c51346436138c92992981eae149\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aebe0c51346436138c92992981eae149\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98b442f7c43c1084ca3c3cf99ed1f7e7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\hp\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98b442f7c43c1084ca3c3cf99ed1f7e7\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hp\Documents\sem4\Akanshu-finalP\trackApp\app\src\main\AndroidManifest.xml

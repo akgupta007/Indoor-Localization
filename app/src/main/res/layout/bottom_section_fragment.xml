@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="18dp"
+        android:text="@string/info1" />
+
+    <EditText
+        android:id="@+id/x_initial"
+        android:layout_width="37dp"
+        android:layout_height="35dp"
+        android:layout_alignBaseline="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="104dp"
+        android:ems="10"
+        android:inputType="number"
+        android:text="0"
+        android:textSize="14sp" />
+
+    <EditText
+        android:id="@+id/y_initial"
+        android:layout_width="37dp"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/x_initial"
+        android:layout_marginStart="157dp"
+        android:ems="10"
+        android:inputType="number"
+        android:text="0"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/start_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/x_initial"
+        android:layout_marginEnd="11dp"
+        android:text="@string/start_button" />
+
+    <TextView
+        android:id="@+id/tangle"
+        android:layout_width="100px"
+        android:layout_height="50px"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/start_button"
+        android:text="@string/info2" />
+
+    <TextView
+        android:id="@+id/angle"
+        android:layout_width="30px"
+        android:layout_height="50px"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/tangle"
+        android:layout_marginStart="62dp"
+        android:text="0"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tdistance"
+        android:layout_width="66dp"
+        android:layout_height="50px"
+        android:layout_below="@+id/start_button"
+        android:layout_toEndOf="@+id/textView"
+        android:text="@string/info3" />
+
+    <TextView
+        android:id="@+id/distance"
+        android:layout_width="20dp"
+        android:layout_height="50px"
+        android:layout_alignStart="@+id/y_initial"
+        android:layout_below="@+id/start_button"
+        android:text="0"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/stepsDetect"
+        android:layout_width="80px"
+        android:layout_height="50px"
+        android:layout_below="@+id/start_button"
+        android:layout_toEndOf="@+id/y_initial"
+        android:text="@string/info4" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="230px"
+        android:layout_height="50px"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/stop_button"
+        android:text="@string/info5" />
+
+    <TextView
+        android:id="@+id/x_current"
+        android:layout_width="30px"
+        android:layout_height="50px"
+        android:layout_alignEnd="@+id/x_initial"
+        android:layout_alignTop="@+id/textView7"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/y_current"
+        android:layout_width="30px"
+        android:layout_height="50px"
+        android:layout_alignStart="@+id/y_initial"
+        android:layout_alignTop="@+id/textView7"
+        android:text="0" />
+
+    <Button
+        android:id="@+id/stop_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/start_button"
+        android:layout_below="@+id/start_button"
+        android:text="@string/stop_button" />
+
+    <Button
+        android:id="@+id/map_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/start_button"
+        android:layout_alignTop="@+id/textView7"
+        android:text="@string/map_button" />
+
+    <TextView
+        android:id="@+id/steps"
+        android:layout_width="30px"
+        android:layout_height="50px"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/start_button"
+        android:layout_marginEnd="135dp"
+        android:text="0" />
+
+</RelativeLayout>
